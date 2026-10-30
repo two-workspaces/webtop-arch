@@ -1,4 +1,4 @@
-FROM linuxserver/webtop:arch-xfce-2025-07-12-ls253
+FROM linuxserver/webtop:arch-xfce-2025-07-12-ls254
 
 # Upstream starts Xvfb with a 15360x8640 screen, which pins ~600 MB for the
 # framebuffer alone and OOM-kills the desktop on Railway's 512 MB Trial plan.
